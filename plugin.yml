@@ -1,0 +1,9 @@
+name: HellRealm2
+main: be.afhistos.hellrealm2.Main
+version: 2.0
+author: afhistos
+commands:
+  sethz:
+    description: give you the item you'll need to set the HealZone
+    permission: hr2.sethz
+    usage: /sethz
