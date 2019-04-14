@@ -26,7 +26,7 @@ import net.dv8tion.jda.core.entities.User;
 
 public class Main extends JavaPlugin implements Listener{
 	public Bot bot;
-	public final String TOKEN = "NDQzNDg5OTg5OTM0OTcyOTM4.DdOHxA.R9wGsd_j-yw_jwzLrgCkgsZegrg";
+	public final String TOKEN = "";
 	public final String PREFIX = "hr.";
 	public void onEnable() {
 		getLogger().info("Starting HellRealm. . .");
